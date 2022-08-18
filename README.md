@@ -7,3 +7,8 @@ To run the project
 First run roslaunch endsem endsedm.launch
 
 and then run rosrun endsem team11.py
+
+Authors:
+
+- [Rishekesan S.V](https://github.com/Rishekesan3012)
+- [Karthikeyan M](https://github.com/karthikeyan1708)

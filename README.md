@@ -12,3 +12,5 @@ Authors:
 
 - [Rishekesan S.V](https://github.com/Rishekesan3012)
 - [Karthikeyan M](https://github.com/karthikeyan1708)
+- [Rahul G](https://github.com/Rahul-Ganesan)
+
